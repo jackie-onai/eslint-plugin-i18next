@@ -41,7 +41,7 @@ or
 This rule aims to avoid developers to display literal string to users
 in those projects which need to support [multi-language](https://www.i18next.com/).
 
-> <span style="color: lightcoral">Note:</span> Disable auto-fix because key in the call `i18next.t(key)` ussally was not the same as the literal
+> <span style="color: lightcoral">Note:</span> Disable auto-fix because key in the call `i18next.t(key)` usually was not the same as the literal
 
 ### Rule Details
 
